@@ -2,7 +2,7 @@
 
 This documentation provides an overview of the database schema for an E-Commerce platform. The schema is designed to handle various aspects of an online retail business, including product management, order processing, user management, and more.
 
-DbDigram.io URL: <toBeAdded>
+DBDigram.io URL: <toBeAdded>
 
 ## Tables
 
