@@ -328,7 +328,6 @@ To improve visualization and organization, tables have been grouped into the fol
 - `merchant_group`: Tables related to merchants.
 - `payment_group`: Tables related to payments and promotions.
 - `order_group`: Tables related to orders and returns.
-- `product_info_group`: Tables related to product details.
 - `shipping_group`: Tables related to shipping information and countries.
 - `other_group`: Miscellaneous tables.
 
