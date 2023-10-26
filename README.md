@@ -1,5 +1,6 @@
 ## Table Structure Overview
-
+This database schema represents the structure for an e-commerce platform, providing the necessary tables and relationships to manage various aspects of the platform, including products, users, orders, payments, and more.
+##
 ### 1. **Countries Table**
 - Stores information about countries.
   - **code**: An integer representing the country code.
